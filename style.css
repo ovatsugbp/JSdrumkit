@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: gray bottom center;
+  background:url(sebastian-ervi-xJt6Gs20Uqc-unsplash.jpg) bottom center no-repeat;
   background-size: cover;
 }
 
@@ -9,17 +9,15 @@ body,html {
   padding: 0;
   font-family: sans-serif;
 }
-
-.keys {
-  display: flex;
-  flex: 1;
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
+.control{
+display: flex;
+justify-content: space-around;
+font-size: 30px;
+margin: .3em;
 }
 
-.key {
-  border: .4rem solid black;
+.control-button{
+  border: .6rem solid white;
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
@@ -28,8 +26,32 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
-  text-shadow: 0 0 .5rem black;
+  background: rgba(27, 27, 27, 0.4);
+  
+  position: relative;
+  top: 15em;
+}
+
+.keys {
+  display: flex;
+  flex: 1;
+  min-height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.key {
+  border: .6rem solid white;
+  border-radius: .5rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem .5rem;
+  transition: all .07s ease;
+  width: 10rem;
+  text-align: center;
+  color: white;
+  background: rgba(27, 27, 27, 0.4);
+  /* text-shadow: 0 0 .5rem black; */
 }
 
 .playing {
