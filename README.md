@@ -8,7 +8,7 @@ First day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).
 
 ### Author
 ---
- <img style="border-radius: 50%" src="https://media-exp1.licdn.com/dms/image/C4D03AQFGArHmUdDvAg/profile-displayphoto-shrink_200_200/0?e=1606348800&v=beta&t=f-K1hQhWtRmNeltBBYmuvqnh6cqvIRDj4WkH1vlK53o" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars2.githubusercontent.com/u/68348319?s=400&u=e7faae76a279d2cbe5d725724fce5e85b0f88b44&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Gustavo Goulart</b></sub>
 
